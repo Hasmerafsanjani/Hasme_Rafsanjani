@@ -1,0 +1,13 @@
+div{
+
+    text-align: center;
+}
+
+.button{  
+    font-size:large;
+    border-color: rgb(68, 36, 252);
+    border-width: 5px;
+    padding:5px 20px;
+}
+
+
