@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+  }
+  
+  .container {
+    background-color: rgb(255, 255, 255);
+    padding: 10px 0;
+  }
+  
+  .marker{
+    width: 300px;
+    height: 40px;
+    margin: 20px auto;
+  }
+  
+  .cap {
+    width: 80px;
+    height: 40px;
+  }
+  
+  .sleeve {
+    width: 190px;
+    height: 40px;
+    background-color: rgba(255, 255, 255, 0.199);
+    border-left: 10px double rgba(0, 0, 0, 0.75);
+  }
+  
+  .cap, .sleeve {
+    display: inline-block;
+  }
+  
+  .red {
+    background: linear-gradient(rgb(136, 43, 12), rgb(255, 19, 19), rgb(145, 51, 23));
+    box-shadow: 0 0 20px 0 rgba(83, 14, 14, 0.8);
+  }
+  
+  .green {
+    background: linear-gradient(#55680D, #48ff00, #116C31);
+    box-shadow: 0 0 20px 0 #3B7E20CC;
+  }
+  
+  .blue {
+    background: linear-gradient(hsl(186, 76%, 16%), hsl(219, 95%, 48%), hsl(240, 37%, 53%));
+    box-shadow: 0 0 20px 0 blue;
+  }
