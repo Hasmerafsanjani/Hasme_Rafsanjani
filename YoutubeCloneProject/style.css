@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700);
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family:'Roboto','sans-serif';
+}
+/* header  */
+.meterial_icons{
+    color:rgb(96 96 96);
+}
+.heading{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    padding: 15px;
+}
+.header_left{
+align-items: center;
+}
+.header_left{
+    width: 50px;
+    margin-left: 10px;
+}
